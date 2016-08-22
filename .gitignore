@@ -1,0 +1,6 @@
+Angular2/angular2-quickstart/typings
+Angular2/angular2-quickstart/app/**/*.js
+Angular2/angular2-quickstart/app/**/*.map
+Angular2/angular2-quickstart/node_modules
+Angular2/angular2-quickstart/jspm_packages
+Angular2/angular2-quickstart/bower_components
